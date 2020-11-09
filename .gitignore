@@ -123,7 +123,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-data/
 *.pickle
 
 *.iml
